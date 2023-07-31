@@ -1,0 +1,26 @@
+/** Admin Options Styles **/
+.mepr-flutterwave-callout {
+    max-width: 500px;
+    min-width: 300px;
+    background: #f4f6f8;
+    box-shadow: 0 1.2px 5.6px rgba(0, 0, 0, 0.12);
+    margin: 30px 0;
+    font-size: 18px;
+}
+
+.mepr-flutterwave-callout .callout-header {
+    padding: 10px;
+    background: #ff9b00;
+    color: #2a3362;
+}
+
+.mepr-flutterwave-callout .callout-container {
+    color: #4f4f4f;
+    padding: 10px;
+}
+
+.mepr-flutterwave-callout .callout-container p {
+    text-align: start;
+    font-size: 16px;
+    margin: 0;
+}
